@@ -11,10 +11,6 @@ A DIY companion client for BlueMoon that helps you visualize deck potential and 
 
 ## What It Does
 * **Phase Strength Distribution**: Categorizes your cards into Early, Mid, and Late game phases to show you where your deck is most powerful.
-* **Real-Time Deck Tracking**: Shows your remaining card counts and deck composition live while you are playing.
-* **Deck Comparison & Sharing**: Allows you to import a friend's deck file to see exactly how many copies you are missing from your own collection.
-* **Live Stat Monitoring**: Displays an integrated bar that tracks your current gold, playtime, and win/loss ratio.
-* **Visualized Composition**: Generates charts and tables to summarize your total attack, strength, and defense stats across the entire deck.
 
 ## How It Works
 The app functions as a specialized browser for the game. When you open it, you can access the analyzer features to deep-dive into your collection or toggle the tracker while you play. The window is designed to intelligently resize so that your deck information never hides the actual game canvas.
